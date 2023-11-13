@@ -1,0 +1,800 @@
+[
+  {
+    "chapterIndex": "1",
+    "chapterName": "The Opening",
+    "verses": "7",
+    "words": "74",
+    "chars": "314"
+  },
+  {
+    "chapterIndex": "2",
+    "chapterName": "The Cow",
+    "verses": "286",
+    "words": "12316",
+    "chars": "52639"
+  },
+  {
+    "chapterIndex": "3",
+    "chapterName": "The Family of Imraan",
+    "verses": "200",
+    "words": "7080",
+    "chars": "30276"
+  },
+  {
+    "chapterIndex": "4",
+    "chapterName": "The Women",
+    "verses": "176",
+    "words": "7347",
+    "chars": "31845"
+  },
+  {
+    "chapterIndex": "5",
+    "chapterName": "The Table",
+    "verses": "120",
+    "words": "5598",
+    "chars": "23932"
+  },
+  {
+    "chapterIndex": "6",
+    "chapterName": "The Cattle",
+    "verses": "165",
+    "words": "6226",
+    "chars": "26109"
+  },
+  {
+    "chapterIndex": "7",
+    "chapterName": "The Heights",
+    "verses": "206",
+    "words": "6796",
+    "chars": "28550"
+  },
+  {
+    "chapterIndex": "8",
+    "chapterName": "The Spoils of War",
+    "verses": "75",
+    "words": "2525",
+    "chars": "10834"
+  },
+  {
+    "chapterIndex": "9",
+    "chapterName": "The Repentance",
+    "verses": "129",
+    "words": "5169",
+    "chars": "22679"
+  },
+  {
+    "chapterIndex": "10",
+    "chapterName": "Jonas",
+    "verses": "109",
+    "words": "3588",
+    "chars": "14947"
+  },
+  {
+    "chapterIndex": "11",
+    "chapterName": "Hud",
+    "verses": "123",
+    "words": "3930",
+    "chars": "16168"
+  },
+  {
+    "chapterIndex": "12",
+    "chapterName": "Joseph",
+    "verses": "111",
+    "words": "3566",
+    "chars": "14512"
+  },
+  {
+    "chapterIndex": "13",
+    "chapterName": "The Thunder",
+    "verses": "43",
+    "words": "1701",
+    "chars": "7360"
+  },
+  {
+    "chapterIndex": "14",
+    "chapterName": "Abraham",
+    "verses": "52",
+    "words": "1649",
+    "chars": "7050"
+  },
+  {
+    "chapterIndex": "15",
+    "chapterName": "The Rock",
+    "verses": "99",
+    "words": "1389",
+    "chars": "5896"
+  },
+  {
+    "chapterIndex": "16",
+    "chapterName": "The Bee",
+    "verses": "128",
+    "words": "3757",
+    "chars": "15908"
+  },
+  {
+    "chapterIndex": "17",
+    "chapterName": "The Night Journey",
+    "verses": "111",
+    "words": "3223",
+    "chars": "13549"
+  },
+  {
+    "chapterIndex": "18",
+    "chapterName": "The Cave",
+    "verses": "110",
+    "words": "3350",
+    "chars": "13823"
+  },
+  {
+    "chapterIndex": "19",
+    "chapterName": "Mary",
+    "verses": "98",
+    "words": "2036",
+    "chars": "8188"
+  },
+  {
+    "chapterIndex": "20",
+    "chapterName": "Taa-Haa",
+    "verses": "135",
+    "words": "2830",
+    "chars": "11608"
+  },
+  {
+    "chapterIndex": "21",
+    "chapterName": "The Prophets",
+    "verses": "112",
+    "words": "2437",
+    "chars": "10109"
+  },
+  {
+    "chapterIndex": "22",
+    "chapterName": "The Pilgrimage",
+    "verses": "78",
+    "words": "2537",
+    "chars": "10938"
+  },
+  {
+    "chapterIndex": "23",
+    "chapterName": "The Believers",
+    "verses": "118",
+    "words": "2116",
+    "chars": "8871"
+  },
+  {
+    "chapterIndex": "24",
+    "chapterName": "The Light",
+    "verses": "64",
+    "words": "2611",
+    "chars": "11316"
+  },
+  {
+    "chapterIndex": "25",
+    "chapterName": "The Criterion",
+    "verses": "77",
+    "words": "1846",
+    "chars": "7811"
+  },
+  {
+    "chapterIndex": "26",
+    "chapterName": "The Poets",
+    "verses": "227",
+    "words": "2710",
+    "chars": "10938"
+  },
+  {
+    "chapterIndex": "27",
+    "chapterName": "The Ant",
+    "verses": "93",
+    "words": "2352",
+    "chars": "9712"
+  },
+  {
+    "chapterIndex": "28",
+    "chapterName": "The Stories",
+    "verses": "88",
+    "words": "2900",
+    "chars": "11817"
+  },
+  {
+    "chapterIndex": "29",
+    "chapterName": "The Spider",
+    "verses": "69",
+    "words": "1969",
+    "chars": "8353"
+  },
+  {
+    "chapterIndex": "30",
+    "chapterName": "The Romans",
+    "verses": "60",
+    "words": "1636",
+    "chars": "7003"
+  },
+  {
+    "chapterIndex": "31",
+    "chapterName": "Luqman",
+    "verses": "34",
+    "words": "1038",
+    "chars": "4415"
+  },
+  {
+    "chapterIndex": "32",
+    "chapterName": "The Prostration",
+    "verses": "30",
+    "words": "745",
+    "chars": "3153"
+  },
+  {
+    "chapterIndex": "33",
+    "chapterName": "The Clans",
+    "verses": "73",
+    "words": "2594",
+    "chars": "11343"
+  },
+  {
+    "chapterIndex": "34",
+    "chapterName": "Sheba",
+    "verses": "54",
+    "words": "1741",
+    "chars": "7287"
+  },
+  {
+    "chapterIndex": "35",
+    "chapterName": "The Originator",
+    "verses": "45",
+    "words": "1519",
+    "chars": "6492"
+  },
+  {
+    "chapterIndex": "36",
+    "chapterName": "Yaseen",
+    "verses": "83",
+    "words": "1498",
+    "chars": "6040"
+  },
+  {
+    "chapterIndex": "37",
+    "chapterName": "Those drawn up in Ranks",
+    "verses": "182",
+    "words": "1881",
+    "chars": "7896"
+  },
+  {
+    "chapterIndex": "38",
+    "chapterName": "The letter Saad",
+    "verses": "88",
+    "words": "1553",
+    "chars": "6600"
+  },
+  {
+    "chapterIndex": "39",
+    "chapterName": "The Groups",
+    "verses": "75",
+    "words": "2319",
+    "chars": "9831"
+  },
+  {
+    "chapterIndex": "40",
+    "chapterName": "The Forgiver",
+    "verses": "85",
+    "words": "2449",
+    "chars": "10388"
+  },
+  {
+    "chapterIndex": "41",
+    "chapterName": "Explained in detail",
+    "verses": "54",
+    "words": "1648",
+    "chars": "6929"
+  },
+  {
+    "chapterIndex": "42",
+    "chapterName": "Consultation",
+    "verses": "53",
+    "words": "1682",
+    "chars": "7227"
+  },
+  {
+    "chapterIndex": "43",
+    "chapterName": "Ornaments of gold",
+    "verses": "89",
+    "words": "1785",
+    "chars": "7486"
+  },
+  {
+    "chapterIndex": "44",
+    "chapterName": "The Smoke",
+    "verses": "59",
+    "words": "710",
+    "chars": "3023"
+  },
+  {
+    "chapterIndex": "45",
+    "chapterName": "Crouching",
+    "verses": "37",
+    "words": "999",
+    "chars": "4167"
+  },
+  {
+    "chapterIndex": "46",
+    "chapterName": "The Dunes",
+    "verses": "35",
+    "words": "1311",
+    "chars": "5561"
+  },
+  {
+    "chapterIndex": "47",
+    "chapterName": "Muhammad",
+    "verses": "38",
+    "words": "1099",
+    "chars": "4853"
+  },
+  {
+    "chapterIndex": "48",
+    "chapterName": "The Victory",
+    "verses": "29",
+    "words": "1169",
+    "chars": "5157"
+  },
+  {
+    "chapterIndex": "49",
+    "chapterName": "The Inner Apartments",
+    "verses": "18",
+    "words": "663",
+    "chars": "2889"
+  },
+  {
+    "chapterIndex": "50",
+    "chapterName": "The letter Qaaf",
+    "verses": "45",
+    "words": "762",
+    "chars": "3150"
+  },
+  {
+    "chapterIndex": "51",
+    "chapterName": "The Winnowing Winds",
+    "verses": "60",
+    "words": "753",
+    "chars": "3182"
+  },
+  {
+    "chapterIndex": "52",
+    "chapterName": "The Mount",
+    "verses": "49",
+    "words": "680",
+    "chars": "2852"
+  },
+  {
+    "chapterIndex": "53",
+    "chapterName": "The Star",
+    "verses": "62",
+    "words": "738",
+    "chars": "3072"
+  },
+  {
+    "chapterIndex": "54",
+    "chapterName": "The Moon",
+    "verses": "55",
+    "words": "723",
+    "chars": "3155"
+  },
+  {
+    "chapterIndex": "55",
+    "chapterName": "The Beneficent",
+    "verses": "78",
+    "words": "815",
+    "chars": "3278"
+  },
+  {
+    "chapterIndex": "56",
+    "chapterName": "The Inevitable",
+    "verses": "96",
+    "words": "849",
+    "chars": "3538"
+  },
+  {
+    "chapterIndex": "57",
+    "chapterName": "The Iron",
+    "verses": "29",
+    "words": "1188",
+    "chars": "5139"
+  },
+  {
+    "chapterIndex": "58",
+    "chapterName": "The Pleading Woman",
+    "verses": "22",
+    "words": "920",
+    "chars": "4111"
+  },
+  {
+    "chapterIndex": "59",
+    "chapterName": "The Exile",
+    "verses": "24",
+    "words": "897",
+    "chars": "3971"
+  },
+  {
+    "chapterIndex": "60",
+    "chapterName": "She that is to be examined",
+    "verses": "13",
+    "words": "715",
+    "chars": "3129"
+  },
+  {
+    "chapterIndex": "61",
+    "chapterName": "The Ranks",
+    "verses": "14",
+    "words": "425",
+    "chars": "1828"
+  },
+  {
+    "chapterIndex": "62",
+    "chapterName": "Friday",
+    "verses": "11",
+    "words": "341",
+    "chars": "1406"
+  },
+  {
+    "chapterIndex": "63",
+    "chapterName": "The Hypocrites",
+    "verses": "11",
+    "words": "367",
+    "chars": "1558"
+  },
+  {
+    "chapterIndex": "64",
+    "chapterName": "Mutual Disillusion",
+    "verses": "18",
+    "words": "503",
+    "chars": "2182"
+  },
+  {
+    "chapterIndex": "65",
+    "chapterName": "Divorce",
+    "verses": "12",
+    "words": "562",
+    "chars": "2511"
+  },
+  {
+    "chapterIndex": "66",
+    "chapterName": "The Prohibition",
+    "verses": "12",
+    "words": "478",
+    "chars": "2115"
+  },
+  {
+    "chapterIndex": "67",
+    "chapterName": "The Sovereignty",
+    "verses": "30",
+    "words": "659",
+    "chars": "2707"
+  },
+  {
+    "chapterIndex": "68",
+    "chapterName": "The Pen",
+    "verses": "52",
+    "words": "650",
+    "chars": "2760"
+  },
+  {
+    "chapterIndex": "69",
+    "chapterName": "The Reality",
+    "verses": "52",
+    "words": "575",
+    "chars": "2318"
+  },
+  {
+    "chapterIndex": "70",
+    "chapterName": "The Ascending Stairways",
+    "verses": "44",
+    "words": "448",
+    "chars": "1945"
+  },
+  {
+    "chapterIndex": "71",
+    "chapterName": "Noah",
+    "verses": "28",
+    "words": "430",
+    "chars": "1900"
+  },
+  {
+    "chapterIndex": "72",
+    "chapterName": "The Jinn",
+    "verses": "28",
+    "words": "573",
+    "chars": "2424"
+  },
+  {
+    "chapterIndex": "73",
+    "chapterName": "The Enshrouded One",
+    "verses": "20",
+    "words": "422",
+    "chars": "1750"
+  },
+  {
+    "chapterIndex": "74",
+    "chapterName": "The Cloaked One",
+    "verses": "56",
+    "words": "526",
+    "chars": "2274"
+  },
+  {
+    "chapterIndex": "75",
+    "chapterName": "The Resurrection",
+    "verses": "40",
+    "words": "353",
+    "chars": "1445"
+  },
+  {
+    "chapterIndex": "76",
+    "chapterName": "Man",
+    "verses": "31",
+    "words": "520",
+    "chars": "2252"
+  },
+  {
+    "chapterIndex": "77",
+    "chapterName": "The Emissaries",
+    "verses": "50",
+    "words": "402",
+    "chars": "1653"
+  },
+  {
+    "chapterIndex": "78",
+    "chapterName": "The Announcement",
+    "verses": "40",
+    "words": "374",
+    "chars": "1618"
+  },
+  {
+    "chapterIndex": "79",
+    "chapterName": "Those who drag forth",
+    "verses": "46",
+    "words": "418",
+    "chars": "1783"
+  },
+  {
+    "chapterIndex": "80",
+    "chapterName": "He frowned",
+    "verses": "42",
+    "words": "306",
+    "chars": "1329"
+  },
+  {
+    "chapterIndex": "81",
+    "chapterName": "The Overthrowing",
+    "verses": "29",
+    "words": "243",
+    "chars": "1005"
+  },
+  {
+    "chapterIndex": "82",
+    "chapterName": "The Cleaving",
+    "verses": "19",
+    "words": "171",
+    "chars": "730"
+  },
+  {
+    "chapterIndex": "83",
+    "chapterName": "Defrauding",
+    "verses": "36",
+    "words": "350",
+    "chars": "1520"
+  },
+  {
+    "chapterIndex": "84",
+    "chapterName": "The Splitting Open",
+    "verses": "25",
+    "words": "243",
+    "chars": "993"
+  },
+  {
+    "chapterIndex": "85",
+    "chapterName": "The Constellations",
+    "verses": "22",
+    "words": "211",
+    "chars": "995"
+  },
+  {
+    "chapterIndex": "86",
+    "chapterName": "The Morning Star",
+    "verses": "17",
+    "words": "132",
+    "chars": "523"
+  },
+  {
+    "chapterIndex": "87",
+    "chapterName": "The Most High",
+    "verses": "19",
+    "words": "144",
+    "chars": "638"
+  },
+  {
+    "chapterIndex": "88",
+    "chapterName": "The Overwhelming",
+    "verses": "26",
+    "words": "191",
+    "chars": "835"
+  },
+  {
+    "chapterIndex": "89",
+    "chapterName": "The Dawn",
+    "verses": "30",
+    "words": "293",
+    "chars": "1211"
+  },
+  {
+    "chapterIndex": "90",
+    "chapterName": "The City",
+    "verses": "20",
+    "words": "177",
+    "chars": "727"
+  },
+  {
+    "chapterIndex": "91",
+    "chapterName": "The Sun",
+    "verses": "15",
+    "words": "157",
+    "chars": "655"
+  },
+  {
+    "chapterIndex": "92",
+    "chapterName": "The Night",
+    "verses": "21",
+    "words": "172",
+    "chars": "703"
+  },
+  {
+    "chapterIndex": "93",
+    "chapterName": "The Morning Hours",
+    "verses": "11",
+    "words": "108",
+    "chars": "418"
+  },
+  {
+    "chapterIndex": "94",
+    "chapterName": "The Consolation",
+    "verses": "8",
+    "words": "62",
+    "chars": "265"
+  },
+  {
+    "chapterIndex": "95",
+    "chapterName": "The Fig",
+    "verses": "8",
+    "words": "69",
+    "chars": "280"
+  },
+  {
+    "chapterIndex": "96",
+    "chapterName": "The Clot",
+    "verses": "19",
+    "words": "134",
+    "chars": "557"
+  },
+  {
+    "chapterIndex": "97",
+    "chapterName": "The Power, Fate",
+    "verses": "5",
+    "words": "56",
+    "chars": "237"
+  },
+  {
+    "chapterIndex": "98",
+    "chapterName": "The Evidence",
+    "verses": "8",
+    "words": "169",
+    "chars": "822"
+  },
+  {
+    "chapterIndex": "99",
+    "chapterName": "The Earthquake",
+    "verses": "8",
+    "words": "75",
+    "chars": "319"
+  },
+  {
+    "chapterIndex": "100",
+    "chapterName": "The Chargers",
+    "verses": "11",
+    "words": "83",
+    "chars": "373"
+  },
+  {
+    "chapterIndex": "101",
+    "chapterName": "The Calamity",
+    "verses": "11",
+    "words": "86",
+    "chars": "343"
+  },
+  {
+    "chapterIndex": "102",
+    "chapterName": "Competition",
+    "verses": "8",
+    "words": "60",
+    "chars": "259"
+  },
+  {
+    "chapterIndex": "103",
+    "chapterName": "The Declining Day, Epoch",
+    "verses": "3",
+    "words": "29",
+    "chars": "132"
+  },
+  {
+    "chapterIndex": "104",
+    "chapterName": "The Traducer",
+    "verses": "9",
+    "words": "66",
+    "chars": "297"
+  },
+  {
+    "chapterIndex": "105",
+    "chapterName": "The Elephant",
+    "verses": "5",
+    "words": "46",
+    "chars": "203"
+  },
+  {
+    "chapterIndex": "106",
+    "chapterName": "Quraysh",
+    "verses": "4",
+    "words": "41",
+    "chars": "186"
+  },
+  {
+    "chapterIndex": "107",
+    "chapterName": "Almsgiving",
+    "verses": "7",
+    "words": "52",
+    "chars": "218"
+  },
+  {
+    "chapterIndex": "108",
+    "chapterName": "Abundance",
+    "verses": "3",
+    "words": "26",
+    "chars": "108"
+  },
+  {
+    "chapterIndex": "109",
+    "chapterName": "The Disbelievers",
+    "verses": "6",
+    "words": "48",
+    "chars": "191"
+  },
+  {
+    "chapterIndex": "110",
+    "chapterName": "Divine Support",
+    "verses": "3",
+    "words": "43",
+    "chars": "191"
+  },
+  {
+    "chapterIndex": "111",
+    "chapterName": "The Palm Fibre",
+    "verses": "5",
+    "words": "52",
+    "chars": "193"
+  },
+  {
+    "chapterIndex": "112",
+    "chapterName": "Sincerity",
+    "verses": "4",
+    "words": "24",
+    "chars": "93"
+  },
+  {
+    "chapterIndex": "113",
+    "chapterName": "The Dawn",
+    "verses": "5",
+    "words": "45",
+    "chars": "170"
+  },
+  {
+    "chapterIndex": "114",
+    "chapterName": "Mankind",
+    "verses": "6",
+    "words": "38",
+    "chars": "167"
+  }
+]
